@@ -23,3 +23,5 @@ We then apply linear regression models to analyze financial behavior within each
 Overall, repayment discipline is strongly tied to spending style: some groups manage debt predictably and consistently, while others display irregular or high-risk credit behavior.
 
 Finally, the broader ethical implications of this analysis are worth noting. Insights like these could be used to promote financial literacy and help individuals avoid debt spirals. However, they could also be misused by predatory lenders or marketing systems to target “vulnerable” consumers. It is important to recognize that the inconsistency of repayment behavior in high-risk groups also makes them financially unpredictable and therefore a poor target for reliable profit.
+
+References/Dataset: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata 
